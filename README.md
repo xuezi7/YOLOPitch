@@ -1,2 +1,2 @@
 # YOLOPitch
-Due to confidentiality policy, the code cannot be made public at this time.
+YOLOPitch: A Time-Frequency Dual-Branch YOLO Model for Pitch Estimation
